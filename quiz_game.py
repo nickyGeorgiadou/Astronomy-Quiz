@@ -44,7 +44,7 @@ else:
 
 answer = input("What is the speed of light? ")
 
-if answer == "300000 m/s":
+if answer == "300000 km/s":
     print("Correct :)")
 else:
     print("Incorrect :(")
